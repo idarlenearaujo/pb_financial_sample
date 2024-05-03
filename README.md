@@ -1,18 +1,31 @@
-## #1 Desafio DIO: Entendendo o Desafio :woman_technologist:
- 
-**Descrição do desafio:** Neste desafio temos como objetivo replicar duas páginas já criadas durante o curso com a sample disponibilizada.  
+## Desafio #1 da DIO: Compreendendo o Desafio 🚀👩‍💻
 
-**Página 1 recriada:** Nesta primeira página os seguintes aspectos devem existir:
-*   O título do relatório;
-*   Filtro por Ano e Mês;
-*   Um gráfico que demonstre a soma de vendas popr produtos;
-*   Um gráfico que mostre o preço médio de venda por produto;
-*   Um gráfico que contenha a soma de vendas por ano, mês e segmento.
+**Descrição do Desafio:** 💡
+O objetivo deste desafio é replicar duas páginas previamente desenvolvidas durante o curso, utilizando a amostra fornecida.
+
+### Página 1 Recriada 📊
+A primeira página deve apresentar os seguintes elementos:
+- **Título do Relatório:** Deve ser claro e refletir o conteúdo da página.
+- **Filtro por Ano e Mês:** 📅 Permitir que os usuários filtrem os dados conforme necessário.
+- **Gráfico de Vendas por Produto:** 📈 Exibir a soma total de vendas para cada produto.
+- **Gráfico do Preço Médio de Venda por Produto:** 💲 Mostrar o preço médio de venda, proporcionando insights sobre a estratégia de precificação.
+- **Gráfico de Vendas por Ano, Mês e Segmento:** 📆 Oferecer uma visão detalhada das vendas, segmentadas por tempo e categoria.
 
 ![Alt text](image.png)
 
-*   Página 2 recriada
+!Descrição da Imagem
+
+### Página 2 Recriada 📉
+A segunda página deve incluir:
+- **Título do Relatório:** Assim como na primeira página, o título deve ser descritivo.
+- **Cards de Sumário de Vendas:** 💳 Apresentar a soma das vendas e das unidades vendidas de forma destacada.
+- **Gráfico de Lucro por País:** 🌍 Ilustrar a soma do lucro gerado em diferentes países.
+- **Gráfico de Lucro por Ano e Mês:** 🗓️ Analisar a evolução do lucro ao longo do tempo.
+- **Gráfico de Vendas por País:** 🏆 Exibir a distribuição geográfica das vendas.
+
 ![Alt text](image-1.png)
+!Descrição da Imagem
+
 
 A terceira página, a qual vocês irão criar sozinhos, deve conter alguns visuais. Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.  
 
