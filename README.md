@@ -26,3 +26,8 @@ Além disso:
 
 *   Caso não tenha Power Point, salve o projeto de Power BI  
 
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
