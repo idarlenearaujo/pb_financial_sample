@@ -2,6 +2,12 @@
  
 Descrição do desafio: Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. 
 
+*   Página 1 recriada
+![Alt text](image.png)
+
+*   Página 2 recriada
+![Alt text](image-1.png)
+
 A terceira página, a qual vocês irão criar sozinhos, deve conter alguns visuais. Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.  
 
 Muito bem, a terceira página é composta por: 
@@ -26,8 +32,6 @@ Além disso:
 
 *   Caso não tenha Power Point, salve o projeto de Power BI  
 
-![Alt text](image.png)
 
-![Alt text](image-1.png)
 
 ![Alt text](image-2.png)
