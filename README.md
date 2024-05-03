@@ -43,4 +43,4 @@ A terceira página deve ser enriquecida com visuais estratégicos, incluindo:
 - **Integração com PowerPoint:** Compartilhe seu relatório como um suplemento dinâmico em apresentações do PowerPoint.
 - **Alternativa ao PowerPoint:** Se não possuir o PowerPoint, salve e compartilhe seu projeto de Power BI de forma que possa ser facilmente acessado e visualizado por outros.
 
-![Alt text](image-2.png)
+![Alt text](image-4.png)
