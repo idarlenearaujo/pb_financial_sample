@@ -1,8 +1,14 @@
 ## #1 Desafio DIO: Entendendo o Desafio :woman_technologist:
  
-Descrição do desafio: Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. 
+**Descrição do desafio:** Neste desafio temos como objetivo replicar duas páginas já criadas durante o curso com a sample disponibilizada.  
 
-*   Página 1 recriada
+**Página 1 recriada:** Nesta primeira página os seguintes aspectos devem existir:
+*   O título do relatório;
+*   Filtro por Ano e Mês;
+*   Um gráfico que demonstre a soma de vendas popr produtos;
+*   Um gráfico que mostre o preço médio de venda por produto;
+*   Um gráfico que contenha a soma de vendas por ano, mês e segmento.
+
 ![Alt text](image.png)
 
 *   Página 2 recriada
