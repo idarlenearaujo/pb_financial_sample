@@ -13,8 +13,6 @@ A primeira página deve apresentar os seguintes elementos:
 
 ![Alt text](image.png)
 
-!Descrição da Imagem
-
 ### Página 2 Recriada 📉
 A segunda página deve incluir:
 - **Título do Relatório:** Assim como na primeira página, o título deve ser descritivo.
@@ -24,33 +22,25 @@ A segunda página deve incluir:
 - **Gráfico de Vendas por País:** 🏆 Exibir a distribuição geográfica das vendas.
 
 ![Alt text](image-1.png)
-!Descrição da Imagem
 
+## Página 3: Visualizando o Sucesso 🌟
 
-A terceira página, a qual vocês irão criar sozinhos, deve conter alguns visuais. Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.  
+**Objetivo do Desafio:** 🎯
+Este desafio é uma oportunidade valiosa para aprimorar as habilidades em visualização de dados. Ao criar visuais impactantes, você ganhará confiança no uso dessas ferramentas essenciais. Nos módulos futuros, será explorado técnicas mais avançadas para elevar o design dos relatórios.
 
-Muito bem, a terceira página é composta por: 
+### Componentes da Terceira Página 📈
+A terceira página deve ser enriquecida com visuais estratégicos, incluindo:
 
-*   Visual mapa 1: Soma de sales e unidades vendidas por país 
+- **Visual Mapa 1:** 🗺️ Apresente a soma das vendas e unidades vendidas, distribuídas geograficamente por país.
+- **Visual Mapa 2:** 🌍 Destaque a soma do lucro (profit) por país, revelando insights financeiros globais.
+- **Visual de Pizza:** 🍕 Ilustre a distribuição do lucro por segmento de mercado, facilitando a compreensão da performance de cada área.
 
-*   Visual mapa 2: Soma de lucro (profit) por país 
+### Passos Adicionais: 🔍
+- **Organização dos Visuais:** Certifique-se de que os visuais estejam dispostos de maneira lógica e esteticamente agradável no relatório.
+- **Nomenclatura dos Visuais:** Renomeie os visuais para títulos que sejam autoexplicativos e relevantes ao contexto apresentado.
+- **Dicas de Ferramentas:** Fique atento aos campos utilizados nas dicas de ferramentas para garantir que as informações sejam úteis e acessíveis.
+- **Publicação do Relatório:** Disponibilize seu relatório para visualização e feedback da comunidade.
+- **Integração com PowerPoint:** Compartilhe seu relatório como um suplemento dinâmico em apresentações do PowerPoint.
+- **Alternativa ao PowerPoint:** Se não possuir o PowerPoint, salve e compartilhe seu projeto de Power BI de forma que possa ser facilmente acessado e visualizado por outros.
 
-*   Visual de pizza: Lucro por segmento 
-
-Além disso: 
-
-*   Verifique a disposição dos visuais no relatório 
-
-*   Modifique os nomes dos visuais para algo mais claro e direto (de acordo com o contexto) 
-
-*   Preste atenção aos campos que são utilizados como dicas de ferramentas  
-
-*   Publique o relatório 
-
-*   Compartilhe como suplemento no Power Point 
-
-*   Caso não tenha Power Point, salve o projeto de Power BI  
-
-
-
-![Alt text](image-2.png)
+ ![Alt text](image-3.png)
